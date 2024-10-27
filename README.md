@@ -23,9 +23,9 @@ Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted
 <br>
 <br>
 <br>
-# 🦾 Morning Session
+# 🦾 Chapter 1
 
-##    💼 Session 1: Warm-up with ChatGPT (60 minutes)
+##    💼 Warm-up with ChatGPT (30 minutes)
 Let's warm up in 7 Prompts.
 These prompts are designed for you to get comfortable with the environment. For this use-case we will use an HR process for recruiting
 Why? Because recruiting involves everyone. 
