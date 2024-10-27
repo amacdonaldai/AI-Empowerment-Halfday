@@ -23,6 +23,7 @@ Try this link for ChatGPT Plus >>> chat.openai.com/invite/accepted--->
 <br>
 <br>
 <br>
+
 # 🦾 Chapter 1
 
 ##    💼 Warm-up with ChatGPT (30 minutes)
